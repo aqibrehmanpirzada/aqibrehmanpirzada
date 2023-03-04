@@ -1,7 +1,7 @@
 ![logo](https://github.com/aqibrehmanpirzada/aqibrehmanpirzada/blob/main/b1.png)
 <h1 align="center">Hi 👋, I'm AqibRehmanPirZada</h1>
 <h3 align="center">End-to-end Data Scientist with expertise in the entire Data Life Cycle</h3>
-<img align='right',width='400',src='https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif'>  
+<img align='right',width='400',src='https://blog.imarticus.org/wp-content/uploads/2021/03/hhws.gif'>  </img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqibrehmanpirzada&label=Profile%20views&color=0e75b6&style=flat" alt="aqibrehmanpirzada" /> </p>
 
 - 🔭 I’m currently working on **My Remote Job**
