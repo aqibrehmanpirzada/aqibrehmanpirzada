@@ -47,10 +47,7 @@
 </p> -->
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqibrehman-pirzada-ml/)
-
 [![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aqibrehmanpirzada)
-
-
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/aqibrehmanpirzada)
 
 ## 🛠️ My Skills
