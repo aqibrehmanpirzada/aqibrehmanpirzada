@@ -1,6 +1,6 @@
 ![logo](https://github.com/aqibrehmanpirzada/aqibrehmanpirzada/blob/main/b1.png)
 <h1 align="center">Hi , I'm ARPZ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">End-to-end Data Scientist with expertise in the entire Data Life Cycle</h2>
+<h2 align="center">Full Stack Data Scientist with expertise in the entire Data Life Cycle</h2>
 <p align="center">
   <a href="https://github.com/IamVicky90"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Big+Data;MLOPS;Data-Analyst;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
